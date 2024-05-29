@@ -1,0 +1,15 @@
+there are table list of Commercial BI
+
+SL	Report Name
+1	Commercial Status
+2	Commercial Export Status
+3	Drill Page for Export Status
+4	Commercial Import Status
+5	Drill Page for Import Status
+6	Export LC Register
+7	Export LC Register (PI Based)
+8	Import LC Status
+9	Pending Acceptance Statement
+10	Export Document Submission Statement
+11	Export Document Realization Statement
+12	LC Receiving Status
